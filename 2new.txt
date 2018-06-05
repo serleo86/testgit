@@ -15,4 +15,5 @@ add new commit in bezgolovoe sostoyanie 2
 
 add ||
 
-for conflict from master
+
+for conflict in feature
