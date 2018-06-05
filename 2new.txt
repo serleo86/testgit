@@ -13,4 +13,6 @@ add new commit in bezgolovoe sostoyanie
 add new commit in bezgolovoe sostoyanie 2
 
 
-add paral commit
+add ||
+
+
